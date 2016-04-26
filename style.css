@@ -1,0 +1,248 @@
+@import url(https://fonts.googleapis.com/css?family=Kranky);
+@import url(https://fonts.googleapis.com/css?family=Reenie+Beanie);
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
+body {
+  background-color: #FCD585;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin: auto;
+}
+
+header {
+  text-align: center;
+  font-size: 48px;
+  font-family: "Kranky", sans-serif;
+  color: #4F3200;
+}
+
+h1 {
+  font-family: "Kranky", sans-serif;
+  width: 100%;
+  font-size: 40px;
+  margin: 0px;
+  color: #4F3200;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Reenie Beanie", sans-serif;
+  font-size: 36px;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Fjalla One", sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+
+nav {
+  font-size: 20px;
+  font-family: "Kranky", sans-serif;
+  text-align: center;
+  color: #4F3200;
+  width: 100%;
+  margin-bottom: 60px;
+}
+
+#tagline {
+  font-size: 30px;
+  font-family: "Reenie Beanie", sans-serif;
+  text-align: center;
+  margin: 0px;
+  color: black;
+  margin-bottom: 3%;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+#food {
+  margin-right: 100px;
+  border: 1px solid black;
+  border-radius: 50px;
+  padding: 10px;
+}
+
+#mission {
+  margin-right: 100px;
+  border: 1px solid black;
+  border-radius: 50px;
+  padding: 10px;
+}
+
+#where {
+  margin-right: 100px;
+  border: 1px solid black;
+  border-radius: 50px;
+  padding: 10px;
+}
+
+#contact {
+  border: 1px solid black;
+  border-radius: 50px;
+  padding: 10px;
+}
+
+#intro {
+  float: right;
+  width: 450px;
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  margin-right: 170px;
+  font-family: "Fjalla One", sans-serif;
+  line-height: 53px;
+  border: 1px solid black;
+}
+
+
+a:visited {
+  color: #4F3200;
+}
+
+
+#image1 {
+  border: 1px solid black;
+  width: 450px;
+  float: left;
+  margin-left: 180px;
+}
+
+#image2 {
+  border: 1px solid black;
+  width: 365px;
+  float: right;
+  margin-right: 220px;
+}
+
+p {
+  text-transform: uppercase;
+  font-family: "Fjalla One", sans-serif;
+  text-align: center;
+}
+
+#apps {
+  border: 1px solid black;
+  padding: 10px;
+  margin-left: 5%;
+  width: 40%;
+  float: left;
+  margin-top: 3%;
+}
+
+#sandwiches {
+  border: 1px solid black;
+  width: 40%;
+  padding: 10px;
+  float: left;
+  margin-left: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+#soups {
+  border: 1px solid black;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  margin-left: 5%;
+  width: 40%;
+  float: left;
+  margin-top: 3%;
+}
+
+#beansnrice {
+  border: 1px solid black;
+  width: 40%;
+  padding: 10px;
+  margin-left: 5%;
+  float: left;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+#mission1 {
+  text-align: center;
+  width: 550px;
+  margin-left: 360px;
+  margin-bottom: 20px;
+}
+
+#mission2 {
+  text-align: center;
+  width: 550px;
+  margin-left: 360px;
+  margin-bottom: 20px;
+}
+
+#mission3 {
+  text-align: center;
+  width: 550px;
+  margin-left: 360px;
+}
+
+li {
+  text-transform: uppercase;
+  font-family: "Fjalla One", sans-serif;
+  text-align: center;
+  font-size: 18px;
+  width: 100%;
+}
+
+#events {
+  font-size: 18px;
+
+}
+
+#container {
+  width: 900px;
+  text-align: center;
+
+}
+
+#logo {
+  max-width: 100px;
+  margin-left: 47%;
+}
+
+#map {
+  margin-left: 26%;
+}
+
+#eventslist {
+  text-align: center;
+}
+
+#beanpics {
+  float: left;
+  padding-left: 60px;
+}
+
+#contacttext {
+  width: 100%;
+  margin-left: -20px;
+  line-height: 40px;
+}
+
+#twittericon {
+  max-width: 50px;
+  float: left;
+  margin-left: 36%;
+}
+
+#facebooklogo {
+  max-width: 40px;
+  padding-left: 50px;
+  float: left;
+}
+
+#tumblrlogo {
+  max-width: 45px;
+  padding-left: 70px;
+  float: left;
+}
